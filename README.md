@@ -2,6 +2,7 @@
 <body>
     <h1>Proyecto de Análisis de Incendios Forestales</h1>
     <p>Este proyecto abarca un proceso completo de limpieza, imputación y visualización de datos utilizando Python junto con herramientas como Pandas, NumPy y Matplotlib.</p>
+    <img src="foto.webp" alt="Incendio Forestal">
     <h2>Contexto de los Datos</h2>
     <p>Se utilizará el conjunto de datos "Forest Fires", derivado de un estudio entre investigadores asociados a la IEEE. Este dataset incluye información meteorológica y temporal recolectada en incendios forestales en Brasil y Portugal, con el objetivo de encontrar correlaciones entre las variables meteorológicas y el área afectada por los incendios.</p>
     <h2>Introducción</h2>
