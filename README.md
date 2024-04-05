@@ -1,34 +1,23 @@
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Proyecto de Análisis de Incendios Forestales</title>
-</head>
 <body>
     <h1>Proyecto de Análisis de Incendios Forestales</h1>
     <p>Este proyecto abarca un proceso completo de limpieza, imputación y visualización de datos utilizando Python junto con herramientas como Pandas, NumPy y Matplotlib.</p>
-    
     <h2>Contexto de los Datos</h2>
     <p>Se utilizará el conjunto de datos "Forest Fires", derivado de un estudio entre investigadores asociados a la IEEE. Este dataset incluye información meteorológica y temporal recolectada en incendios forestales en Brasil y Portugal, con el objetivo de encontrar correlaciones entre las variables meteorológicas y el área afectada por los incendios.</p>
-    
     <h2>Introducción</h2>
     <p>Los incendios forestales representan una creciente amenaza debido al cambio climático, afectando gravemente a la biodiversidad. Con recursos limitados para combatir estos desastres simultáneamente, surge la necesidad de un modelo predictivo basado en datos meteorológicos para estimar el área potencial afectada y optimizar la asignación de recursos de respuesta.</p>
-    
     <h2>Problemática</h2>
     <p>La frecuencia y simultaneidad de los incendios forestales superan la capacidad de respuesta, lo que subraya la importancia de desarrollar herramientas predictivas para una gestión más eficaz de los recursos disponibles para la lucha contra incendios.</p>
-    
     <h2>Valor Generado</h2>
     <p>La estimación del área potencialmente afectada puede ser una herramienta valiosa para los organismos de socorro, permitiendo una mejor planificación y priorización de los esfuerzos de combate a los incendios forestales.</p>
-    
     <h3>Referencias</h3>
     <ul>
         <li>Cortez, Paulo y Morais, Aníbal. (2008). Forest Fires. UCI Machine Learning Repository. https://doi.org/10.24432/C5D88D.</li>
         <li>Cortez, P. y Aníbal de Jesus Raimundo Morais. “A data mining approach to predict forest fires using meteorological data.” (2007).</li>
         <li>Tables for the Canadian Forest Fire Weather Index System, Canadian Forestry Service, Forest Technical Report, 1984.</li>
     </ul>
-    
     <h2>Composición de la Base de Datos</h2>
     <p>El conjunto de datos incluye 12 variables predictoras y un objetivo (target) continuo, describiendo las condiciones y características de los incendios forestales analizados.</p>
-    
     <h3>Variables</h3>
     <ul>
         <li><strong>X:</strong> Coordenada espacial del eje x (1 a 9).</li>
