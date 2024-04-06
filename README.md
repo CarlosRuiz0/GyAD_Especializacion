@@ -39,7 +39,14 @@ En este sentido, se ha decidio seleccionar un dataset de incendios de forestales
     </ul>
     <h2>Valor generado</h2>
     <p>Una vez estimando el área potencial a ser quemada, se podría disponibilizar la información a los organismos de socorro, bomberos y/o atención de incendios, como una herramienta que les permita priorizar la atención de estos fenómenos en la región, optimizando el número de personas que componen cada equipo de apoyo acorde al área potencial a ser quemada y así poder atender de mejor manera los indencios forestales.</p>
-    <h3>Referencias</h3>
+<h2>Conclusiones</h2>
+<p> 
+<li> Las condiciones meteorológicas y los índices del sistema FWI varían ampliamente, reflejando la complejidad y la diversidad de las condiciones bajo las cuales ocurren los incendios forestales.
+<li> La temperatura es la variable con la correlación más fuerte con la superficie quemada, pero incluso esta correlación es baja. Esto sugiere que ningún factor individual es un predictor fuerte de la superficie quemada.
+<li> La humedad relativa es la única variable con una correlación negativa notable con la superficie quemada, aunque sigue siendo baja.
+<li> Aunque algunas variables muestran correlaciones con la superficie quemada, estas son bajas, lo que indica que ningún factor por sí solo es un predictor fuerte de la extensión del área quemada. Esto sugiere la importancia de considerar modelos multivariados o técnicas de aprendizaje automático para predecir la superficie quemada de manera más efectiva.</p>
+   
+<h3>Referencias</h3>
     <ul>
         <li>Cortez, Paulo y Morais, Aníbal. (2008). Forest Fires. UCI Machine Learning Repository. https://doi.org/10.24432/C5D88D.</li>
         <li>Cortez, P. y Aníbal de Jesus Raimundo Morais. “A data mining approach to predict forest fires using meteorological data.” (2007).</li>
