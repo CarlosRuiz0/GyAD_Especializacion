@@ -9,7 +9,7 @@
     <p>Se utilizará el conjunto de datos "Forest Fires", derivado de un estudio entre investigadores asociados a la IEEE. Este dataset incluye información meteorológica y temporal recolectada en incendios forestales en Brasil y Portugal, con el objetivo de encontrar correlaciones entre las variables meteorológicas y el área afectada por los incendios.</p>
     <h2>Introducción</h2>
     <p>Los incendios forestales representan una creciente amenaza debido al cambio climático, afectando gravemente a la biodiversidad. Con recursos limitados para combatir estos desastres simultáneamente, surge la necesidad de un modelo predictivo basado en datos meteorológicos para estimar el área potencial afectada y optimizar la asignación de recursos de respuesta.</p>
-    <h2>Problemática</h2>
+    <h2>Problemática abordada</h2>
     <p>Debido al cambio climático y demás factores (medioambientales, auto-provocados, etc), hemos presenciado en nuestra región una creciente ola de incendios forestales; acabando con la vida de gran parte de nuestra fauna, flora y biodiversidad en general. No obstante, en la mayoría de las ocasiones se presenta más de un incendio al tiempo y al tener un personal de apoyo limitado, no se pueden cubrir de manera eficiente estos desastres.
 
 En este sentido, se ha decidio seleccionar un dataset de incendios de forestales, con la intención de generar un modelo que sea capaz de estimar (de acuerdo con ciertas variables meteorológicas), el área potencial a quemarse o perderse debido a dichos fenómenos.</p>
