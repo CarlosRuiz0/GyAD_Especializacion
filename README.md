@@ -14,7 +14,7 @@
 
 En este sentido, se ha decidio seleccionar un dataset de incendios de forestales, con la intención de generar un modelo que sea capaz de estimar (de acuerdo con ciertas variables meteorológicas), el área potencial a quemarse o perderse debido a dichos fenómenos.</p>
     <h2>Contenido del repositorio</h2>
-    <p> Este repositori está compuesto principamente por 2 Notebooks, que contienen los códigos de limpieza y visualización de los datos (Limpieza_de_datos.ipynb) y el proceso de cargue del dataset a el entorno de MySQL, la elaboración y conversión del archivo en .db, algunas consultas y modificaciones, y la posterior visualización de los datos modificados (Manipulación_de_datos.ipynb).
+    <p> Este repositorio está compuesto principamente por 2 Notebooks, que contienen los códigos de limpieza y visualización de los datos (Limpieza_de_datos.ipynb) y el proceso de cargue del dataset a el entorno de MySQL, la elaboración y conversión del archivo en .db, algunas consultas y modificaciones, y la posterior visualización de los datos modificados (Manipulación_de_datos.ipynb).
     Así mismo, se cargan los archivos: 
         <li><strong>forestfires.csv :</strong> Archivo inicial, sin modificaciones.</li>
         <li><strong>data_clean_forest_fires.csv :</strong> Dataset generado después del proceso de procesamiento, limpieza y estandarización.</li>
